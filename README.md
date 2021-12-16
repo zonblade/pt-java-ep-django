@@ -16,4 +16,7 @@ migrate the jango and ready to go.
 
 setup at [settings.py](https://github.com/zonblade/pt-java-ep-django/blob/main/javapro/javapro/settings.py)<br>
 api mongo and mysql at [api_item apps](https://github.com/zonblade/pt-java-ep-django/tree/main/javapro/api_item)
-# pt-java-ep-django
+
+```
+today re-upload was to delete sensitive data such as password
+```
