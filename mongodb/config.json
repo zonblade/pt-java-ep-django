@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "61b9f8971a7add24fbfa46da"
+  },
+  "type": "pajak",
+  "data": [
+    {
+      "id": {
+        "$oid": "61ba016e1a7add24fbfa46df"
+      },
+      "nama": "ppn",
+      "rate": 5
+    },
+    {
+      "id": {
+        "$oid": "61ba01771a7add24fbfa46e0"
+      },
+      "nama": "pajak toko",
+      "rate": 10
+    }
+  ]
+}]
